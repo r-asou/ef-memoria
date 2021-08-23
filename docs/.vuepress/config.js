@@ -1,4 +1,4 @@
-// .vuepress/config.js
+//.vuepress/config.js
 module.exports = {
   themeConfig: {
     sidebar: [
@@ -13,20 +13,20 @@ module.exports = {
         title: '游戏',   // 必要的
         collapsable: true, // 可选的, 默认值是 true,
         children: [
-          '游戏'
+          'game'
         ]
 		  },
 	  {
         title: '动画',
         children: [
-		   '动画' 
+		   'anime'
 		],
         initialOpenGroupIndex: -1 // 可选的, 默认值是 0
       }	,  
 	  {
         title: '书籍',
         children: [
-		   '书籍' 
+		   'book'
 		],
         initialOpenGroupIndex: -1 // 可选的, 默认值是 0
       },
@@ -41,7 +41,7 @@ module.exports = {
         title: '周边',   // 必要的
         collapsable: true, // 可选的, 默认值是 true,
         children: [
-          '周边'
+          'hobby'
         ]
 		  },
         {

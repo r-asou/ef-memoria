@@ -2,11 +2,11 @@
 
 ## [(日版)ef - a tale of memories(第一季)](https://www.ef-memo.com/index_top.html)
 
-<img :src="$withBase('/动画/1.jpeg')" alt="foo">
+<img :src="$withBase('/anime/1.jpeg')" alt="foo">
 
-<img :src="$withBase('/动画/2.jpeg')" alt="foo">
+<img :src="$withBase('/anime/2.jpeg')" alt="foo">
 
-<img :src="$withBase('/动画/3.jpeg')" alt="foo">
+<img :src="$withBase('/anime/3.jpeg')" alt="foo">
 
 **以上不再赘述，见对应背景分区**
 
@@ -71,7 +71,7 @@ TVアニメ化を記念 先行記念DVD
 
 **※通常版のＡ）、Ｂ）も含まれます**
 
-<img :src="$withBase('/动画/4.jpeg')" alt="foo">
+<img :src="$withBase('/anime/4.jpeg')" alt="foo">
 
 全新：[http://www.cdjapan.co.jp/product/GNBA-1280?s_ssid=e3273f5dc1b600ee66](http://www.cdjapan.co.jp/product/GNBA-1280?s_ssid=e3273f5dc1b600ee66)
 
@@ -319,7 +319,7 @@ TVアニメ化を記念 先行記念DVD
 
 **※本商品は2011年08月24日に発売された期間限定生産商品と同じ商品です。**
 
-<img :src="$withBase('/动画/5.jpeg')" alt="foo">
+<img :src="$withBase('/anime/5.jpeg')" alt="foo">
 
 
 ---
@@ -356,7 +356,7 @@ TVアニメ化を記念 先行記念DVD
 
 **※本商品は2011年08月24日に発売された期間限定生産商品と同じ商品です。**
 
-<img :src="$withBase('/动画/6.jpeg')" alt="foo">
+<img :src="$withBase('/anime/6.jpeg')" alt="foo">
 
 [http://www.cdjapan.co.jp/product/GNBA-5152?s_ssid=e361155dc5527bb50](http://www.cdjapan.co.jp/product/GNBA-5152?s_ssid=e361155dc5527bb50)
 
@@ -364,9 +364,9 @@ TVアニメ化を記念 先行記念DVD
 ---
 
 ## [(日版)ef - a tale of melodies(第二季)](https://www.ef-melo.com/)
-<img :src="$withBase('/动画/7.jpeg')" alt="foo">
-<img :src="$withBase('/动画/8.jpeg')" alt="foo">
-<img :src="$withBase('/动画/9.jpeg')" alt="foo">
+<img :src="$withBase('/anime/7.jpeg')" alt="foo">
+<img :src="$withBase('/anime/8.jpeg')" alt="foo">
+<img :src="$withBase('/anime/9.jpeg')" alt="foo">
 
 **以上不再赘述，见对应分区**
 
@@ -402,15 +402,15 @@ TVアニメ化を記念 先行記念DVD
 
 **(*)9月29日、Tvkにて放送された「ef2」放送開始特番「ef - a tale of melodies.～prelude～ 放送開始直前緊急企画！ 後藤麻衣＋その他のキノミキノママ！」のテレビ未放送映像を加えた完全版を収録！**
 
-<img :src="$withBase('/动画/10.jpeg')" alt="foo">
-<img :src="$withBase('/动画/11.jpeg')" alt="foo">
+<img :src="$withBase('/anime/10.jpeg')" alt="foo">
+<img :src="$withBase('/anime/11.jpeg')" alt="foo">
 
 **照片:devil**
 
-<img :src="$withBase('/动画/12.jpeg')" alt="foo">
-<img :src="$withBase('/动画/13.jpeg')" alt="foo">
+<img :src="$withBase('/anime/12.jpeg')" alt="foo">
+<img :src="$withBase('/anime/13.jpeg')" alt="foo">
 
-<img :src="$withBase('/动画/14.jpeg')" alt="foo">
+<img :src="$withBase('/anime/14.jpeg')" alt="foo">
 
 **全新**[http://www.cdjapan.co.jp/product/GNBA-1320?s_ssid=e4419e5dc557cd7718](http://www.cdjapan.co.jp/product/GNBA-1320?s_ssid=e4419e5dc557cd7718)
 
@@ -623,7 +623,7 @@ TVアニメ化を記念 先行記念DVD
 
 **●エディトリアルブックレット（44ページ）**
 
-<img :src="$withBase('/动画/15.jpeg')" alt="foo">
+<img :src="$withBase('/anime/15.jpeg')" alt="foo">
 
 全新[http://www.cdjapan.co.jp/product/GNXA-1179?s_ssid=e4419f5dc54f32b559](http://www.cdjapan.co.jp/product/GNXA-1179?s_ssid=e4419f5dc54f32b559)
 
@@ -666,7 +666,7 @@ TVアニメ化を記念 先行記念DVD
 
 **※本商品は2012年01月25日に発売された期間限定生産商品と同じ商品です。**
 
-<img :src="$withBase('/动画/16.jpeg')" alt="foo">
+<img :src="$withBase('/anime/16.jpeg')" alt="foo">
 
 [http://www.cdjapan.co.jp/product/GNBA-5153?s_ssid=e4419e5dc557cd7718](http://www.cdjapan.co.jp/product/GNBA-5153?s_ssid=e4419e5dc557cd7718)
 
@@ -705,7 +705,7 @@ TVアニメ化を記念 先行記念DVD
 
 **※本商品は2012年02月22日に発売された期間限定生産商品と同じ商品です。**
 
-<img :src="$withBase('/动画/17.jpeg')" alt="foo">
+<img :src="$withBase('/anime/17.jpeg')" alt="foo">
 
 [http://www.cdjapan.co.jp/product/GNBA-5154?s_ssid=e4419e5dc557cd7718](http://www.cdjapan.co.jp/product/GNBA-5154?s_ssid=e4419e5dc557cd7718)
 
@@ -716,8 +716,8 @@ TVアニメ化を記念 先行記念DVD
 
 ### ef ~ A Tale of Memories: Complete Collection
 
-<img :src="$withBase('/动画/18.jpeg')" alt="foo">
-<img :src="$withBase('/动画/19.jpeg')" alt="foo">
+<img :src="$withBase('/anime/18.jpeg')" alt="foo">
+<img :src="$withBase('/anime/19.jpeg')" alt="foo">
 
 [https://www.amazon.com/Tale-Memories-Complete-Collection-Blu-ray/dp/B005XB8T90](https://www.amazon.com/Tale-Memories-Complete-Collection-Blu-ray/dp/B005XB8T90)
 
@@ -726,8 +726,8 @@ TVアニメ化を記念 先行記念DVD
 
 ### ef: A Tale of Melodies - Complete Collection
 
-<img :src="$withBase('/动画/20.jpeg')" alt="foo">
-<img :src="$withBase('/动画/21.jpeg')" alt="foo">
+<img :src="$withBase('/anime/20.jpeg')" alt="foo">
+<img :src="$withBase('/anime/21.jpeg')" alt="foo">
 
 
 [https://www.amazon.com/Tale-Melodies-Complete-Collection-Blu-ray/dp/B006LLY8OQ/ref=pd_sbs_74_t_1/134-0024032-3525520?_encoding=UTF8&pd_rd_i=B006LLY8OQ&pd_rd_r=eb810067-fcf4-4faa-9b9b-dc5198600dfb&pd_rd_w=o1vdK&pd_rd_wg=Ze8VG&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=FRDJVZVHF13K7E7C98JD&psc=1&refRID=FRDJVZVHF13K7E7C98JD](https://www.amazon.com/Tale-Melodies-Complete-Collection-Blu-ray/dp/B006LLY8OQ/ref=pd_sbs_74_t_1/134-0024032-3525520?_encoding=UTF8&pd_rd_i=B006LLY8OQ&pd_rd_r=eb810067-fcf4-4faa-9b9b-dc5198600dfb&pd_rd_w=o1vdK&pd_rd_wg=Ze8VG&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=FRDJVZVHF13K7E7C98JD&psc=1&refRID=FRDJVZVHF13K7E7C98JD)
@@ -753,9 +753,9 @@ Rating:TV-MA (D, S)
 
 **BDYou Pay:**$ 64.99
 
-<img :src="$withBase('/动画/22.jpeg')" alt="foo">
-<img :src="$withBase('/动画/23.jpeg')" alt="foo">
-<img :src="$withBase('/动画/24.jpeg')" alt="foo">
+<img :src="$withBase('/anime/22.jpeg')" alt="foo">
+<img :src="$withBase('/anime/23.jpeg')" alt="foo">
+<img :src="$withBase('/anime/24.jpeg')" alt="foo">
 
 
 [https://www.amazon.com/Ef-Tale-Memories-Melodies-Blu-ray/dp/B00MZ3XA2U/ref=pd_sbs_74_t_0/134-0024032-3525520?_encoding=UTF8&pd_rd_i=B00MZ3XA2U&pd_rd_r=eb810067-fcf4-4faa-9b9b-dc5198600dfb&pd_rd_w=o1vdK&pd_rd_wg=Ze8VG&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=FRDJVZVHF13K7E7C98JD&psc=1&refRID=FRDJVZVHF13K7E7C98JD](https://www.amazon.com/Ef-Tale-Memories-Melodies-Blu-ray/dp/B00MZ3XA2U/ref=pd_sbs_74_t_0/134-0024032-3525520?_encoding=UTF8&pd_rd_i=B00MZ3XA2U&pd_rd_r=eb810067-fcf4-4faa-9b9b-dc5198600dfb&pd_rd_w=o1vdK&pd_rd_wg=Ze8VG&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=FRDJVZVHF13K7E7C98JD&psc=1&refRID=FRDJVZVHF13K7E7C98JD)
@@ -767,15 +767,15 @@ Rating:TV-MA (D, S)
 
 ### ef ~ A Tale of Memories & Melodies Collection
 
-<img :src="$withBase('/动画/33.jpeg')" alt="foo">
-<img :src="$withBase('/动画/25.jpeg')" alt="foo">
-<img :src="$withBase('/动画/26.jpeg')" alt="foo">
-<img :src="$withBase('/动画/27.jpeg')" alt="foo">
-<img :src="$withBase('/动画/28.jpeg')" alt="foo">
-<img :src="$withBase('/动画/29.jpeg')" alt="foo">
-<img :src="$withBase('/动画/30.jpeg')" alt="foo">
-<img :src="$withBase('/动画/32.jpeg')" alt="foo">
-<img :src="$withBase('/动画/31.jpeg')" alt="foo">
+<img :src="$withBase('/anime/33.jpeg')" alt="foo">
+<img :src="$withBase('/anime/25.jpeg')" alt="foo">
+<img :src="$withBase('/anime/26.jpeg')" alt="foo">
+<img :src="$withBase('/anime/27.jpeg')" alt="foo">
+<img :src="$withBase('/anime/28.jpeg')" alt="foo">
+<img :src="$withBase('/anime/29.jpeg')" alt="foo">
+<img :src="$withBase('/anime/30.jpeg')" alt="foo">
+<img :src="$withBase('/anime/32.jpeg')" alt="foo">
+<img :src="$withBase('/anime/31.jpeg')" alt="foo">
 英亚
 
 [https://www.amazon.co.uk/dp/B00PIN4PWI](https://www.amazon.co.uk/dp/B00PIN4PWI)

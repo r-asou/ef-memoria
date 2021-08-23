@@ -5,19 +5,20 @@
 ### [ef - First Fan Disc(简称ffd)](http://microsoft2.sitemix.jp/index.php?q=aHR0cDovL3d3dy5taW5vcmkucGgvbGluZXVwL2VmLy4vZWZmZmQuaHRtbA%3D%3D)
 
 **the first tale的先行版本**
-<img :src="$withBase('/游戏/1.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/2.jpeg')" alt="foo">
+<img :src="$withBase('/game/1.jpeg')" alt="foo">
+
+<img :src="$withBase('/game/2.jpeg')" alt="foo">
 
 **照片：devil**
 
-<img :src="$withBase('/游戏/3.jpeg')" alt="foo">
+<img :src="$withBase('/game/3.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/65.jpeg')" alt="foo">
+<img :src="$withBase('/game/65.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/4.jpeg')" alt="foo">
+<img :src="$withBase('/game/4.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/5.jpeg')" alt="foo">
+<img :src="$withBase('/game/5.jpeg')" alt="foo">
 
 **通常版**
 
@@ -27,11 +28,11 @@
 
 [https://www.suruga-ya.jp/product/detail/994000761](https://www.suruga-ya.jp/product/detail/994000761)
 
-<img :src="$withBase('/游戏/6.jpeg')" alt="foo">
+<img :src="$withBase('/game/6.jpeg')" alt="foo">
 
 **描き下ろしスティックポスター(4枚1セット) 特典**
 
-<img :src="$withBase('/游戏/7.jpeg')" alt="foo">
+<img :src="$withBase('/game/7.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/608901487](https://www.suruga-ya.jp/product/detail/608901487)
 
@@ -39,15 +40,15 @@
 
 电话卡
 
-<img :src="$withBase('/游戏/8.jpeg')" alt="foo">
+<img :src="$withBase('/game/8.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/978007758](https://www.suruga-ya.jp/product/detail/978007758)
 
 **ゲーマーズ特典**
 
-<img :src="$withBase('/游戏/66.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/67.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/9.jpeg')" alt="foo">
+<img :src="$withBase('/game/66.jpeg')" alt="foo">
+<img :src="$withBase('/game/67.jpeg')" alt="foo">
+<img :src="$withBase('/game/9.jpeg')" alt="foo">
 
 
 
@@ -56,11 +57,11 @@
 
 发售时间：2006-11-11
 
-<img :src="$withBase('/游戏/10.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/11.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/12.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/13.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/68.jpeg')" alt="foo">
+<img :src="$withBase('/game/10.jpeg')" alt="foo">
+<img :src="$withBase('/game/11.jpeg')" alt="foo">
+<img :src="$withBase('/game/12.jpeg')" alt="foo">
+<img :src="$withBase('/game/13.jpeg')" alt="foo">
+<img :src="$withBase('/game/68.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/145018338001](https://www.suruga-ya.jp/product/detail/145018338001)
 
@@ -68,28 +69,28 @@
 ---
 ### ef-the first tale. TECH GIAN SUPER Prelude
 
-<img :src="$withBase('/游戏/69.jpeg')" alt="foo">
+<img :src="$withBase('/game/69.jpeg')" alt="foo">
 
 
 附录于杂志的特殊体验版，和早了一个月单独发售的trial disc不同之处在于体验部分结束后不是op
 
-<img :src="$withBase('/游戏/68.jpeg')" alt="foo">
+<img :src="$withBase('/game/68.jpeg')" alt="foo">
 
 而是这个版本独占的another story。
 
 中二社真会玩
 
-<img :src="$withBase('/游戏/14.jpeg')" alt="foo">
+<img :src="$withBase('/game/14.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/15.jpeg')" alt="foo">
+<img :src="$withBase('/game/15.jpeg')" alt="foo">
 
 以及plus内容
 
-<img :src="$withBase('/游戏/70.jpeg')" alt="foo">
+<img :src="$withBase('/game/70.jpeg')" alt="foo">
 
 
-<img :src="$withBase('/游戏/71.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/72.jpeg')" alt="foo">
+<img :src="$withBase('/game/71.jpeg')" alt="foo">
+<img :src="$withBase('/game/72.jpeg')" alt="foo">
 
 
 [https://www.suruga-ya.jp/product/detail/179012133](https://www.suruga-ya.jp/product/detail/179012133)
@@ -126,16 +127,16 @@ JANコード：4560194010064
 
 * 色数：ハイカラー必須、フルカラー推奨
 
-<img :src="$withBase('/游戏/16.jpeg')" alt="foo">
+<img :src="$withBase('/game/16.jpeg')" alt="foo">
 
 
 **扫图&照片：devil**
 
-<img :src="$withBase('/游戏/17.jpeg')" alt="foo">
+<img :src="$withBase('/game/17.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/18.jpeg')" alt="foo">
+<img :src="$withBase('/game/18.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/73.jpeg')" alt="foo">
+<img :src="$withBase('/game/73.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/145014882](https://www.suruga-ya.jp/product/detail/145014882)
 
@@ -143,9 +144,9 @@ JANコード：4560194010064
 
 两作予約特典収納BOX
 
-<img :src="$withBase('/游戏/19.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/20.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/21.jpeg')" alt="foo">
+<img :src="$withBase('/game/19.jpeg')" alt="foo">
+<img :src="$withBase('/game/20.jpeg')" alt="foo">
+<img :src="$withBase('/game/21.jpeg')" alt="foo">
 
 **扫图：devil**
 
@@ -153,13 +154,13 @@ JANコード：4560194010064
 
 描き下ろしテレカ
 
-<img :src="$withBase('/游戏/22.jpeg')" alt="foo">
+<img :src="$withBase('/game/22.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/978000078](https://www.suruga-ya.jp/product/detail/978000078)
 
 メールブロック
 
-<img :src="$withBase('/游戏/23.jpeg')" alt="foo">
+<img :src="$withBase('/game/23.jpeg')" alt="foo">
 
 暂无
 
@@ -167,7 +168,7 @@ JANコード：4560194010064
 
 宮村みやこ＆新藤景＆雨宮優子 クリアファイル
 
-<img :src="$withBase('/游戏/24.jpeg')" alt="foo">
+<img :src="$withBase('/game/24.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/994900383](https://www.suruga-ya.jp/product/detail/994900383)
 
@@ -177,12 +178,12 @@ JANコード：4560194010064
 
 **the latter tale的先行版本**
 
-<img :src="$withBase('/游戏/25.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/26.jpeg')" alt="foo">
+<img :src="$withBase('/game/25.jpeg')" alt="foo">
+<img :src="$withBase('/game/26.jpeg')" alt="foo">
 
 照片：devil
 
-<img :src="$withBase('/游戏/27.jpeg')" alt="foo">
+<img :src="$withBase('/game/27.jpeg')" alt="foo">
 
 **通常版**
 
@@ -194,25 +195,25 @@ JANコード：4560194010064
 
 **照片：暴雪、既逝如此安好@ef-a吧**
 
-<img :src="$withBase('/游戏/28.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/29.jpeg')" alt="foo">
+<img :src="$withBase('/game/28.jpeg')" alt="foo">
+<img :src="$withBase('/game/29.jpeg')" alt="foo">
 
 **C73场贩(多了收纳盒+卡片集)**
 
 [https://www.suruga-ya.jp/product/detail/145022070](https://www.suruga-ya.jp/product/detail/145022070)****
 
-<img :src="$withBase('/游戏/30.jpeg')" alt="foo">
+<img :src="$withBase('/game/30.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/31.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/32.jpeg')" alt="foo">
+<img :src="$withBase('/game/31.jpeg')" alt="foo">
+<img :src="$withBase('/game/32.jpeg')" alt="foo">
 
 
 ---
 ### ef - the latter tale. Trial disc. *[体験版]*(附3*8壁纸)
 
-<img :src="$withBase('/游戏/33.jpeg')" alt="foo">
+<img :src="$withBase('/game/33.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/64.jpeg')" alt="foo">
+<img :src="$withBase('/game/64.jpeg')" alt="foo">
 
 
 [https://www.suruga-ya.jp/product/detail/145020855](https://www.suruga-ya.jp/product/detail/145020855)
@@ -223,9 +224,9 @@ JANコード：4560194010064
 
 発売日：2008/04/21
 
-<img :src="$withBase('/游戏/34.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/77.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/78.jpeg')" alt="foo">
+<img :src="$withBase('/game/34.jpeg')" alt="foo">
+<img :src="$withBase('/game/77.jpeg')" alt="foo">
+<img :src="$withBase('/game/78.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/145033249](https://www.suruga-ya.jp/product/detail/145033249)
 
@@ -266,13 +267,13 @@ JANコード：4560194010101
 
 * DirectX：9.0以上
 
-<img :src="$withBase('/游戏/35.jpeg')" alt="foo">
+<img :src="$withBase('/game/35.jpeg')" alt="foo">
 
 **扫图&照片：devil**
 
-<img :src="$withBase('/游戏/36.jpeg')" alt="foo">
+<img :src="$withBase('/game/36.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/37.jpeg')" alt="foo">
+<img :src="$withBase('/game/37.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/145021480](https://www.suruga-ya.jp/product/detail/145021480)
 
@@ -280,13 +281,13 @@ JANコード：4560194010101
 
 新藤千尋 ビッグクッションカバー
 
-<img :src="$withBase('/游戏/38.jpeg')" alt="foo">
+<img :src="$withBase('/game/38.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/864001231](https://www.suruga-ya.jp/product/detail/864001231)
 
 描き下ろしテレカ
 
-<img :src="$withBase('/游戏/39.jpeg')" alt="foo">
+<img :src="$withBase('/game/39.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/978000079](https://www.suruga-ya.jp/product/detail/978000079)
 
@@ -294,19 +295,19 @@ JANコード：4560194010101
 ---
 ### [PS2](http://www.comfort-soft.jp/products/ef/#top)
 
-<img :src="$withBase('/游戏/40.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/41.jpeg')" alt="foo">
+<img :src="$withBase('/game/40.jpeg')" alt="foo">
+<img :src="$withBase('/game/41.jpeg')" alt="foo">
 
 **通常版**
 
-<img :src="$withBase('/游戏/74.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/75.jpeg')" alt="foo">
+<img :src="$withBase('/game/74.jpeg')" alt="foo">
+<img :src="$withBase('/game/75.jpeg')" alt="foo">
 
 
-<img :src="$withBase('/游戏/42.jpeg')" alt="foo">**特典**
+<img :src="$withBase('/game/42.jpeg')" alt="foo">**特典**
 
 
-<img :src="$withBase('/游戏/76.jpeg')" alt="foo">
+<img :src="$withBase('/game/76.jpeg')" alt="foo">
 
 
 全新[https://www.amazon.co.jp/ef-fairy-tale-two-%E9%80%9A%E5%B8%B8%E7%89%88/dp/B0031M99QA%3FSubscriptionId%3D17N1MY30HBR26SAZJXR2%26tag%3D4gamernet-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0031M99QA](https://www.amazon.co.jp/ef-fairy-tale-two-%E9%80%9A%E5%B8%B8%E7%89%88/dp/B0031M99QA%3FSubscriptionId%3D17N1MY30HBR26SAZJXR2%26tag%3D4gamernet-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0031M99QA)
@@ -315,14 +316,14 @@ JANコード：4560194010101
 
 **限定版同梱特典：宫子抱枕**
 
-<img :src="$withBase('/游戏/43.jpeg')" alt="foo">
+<img :src="$withBase('/game/43.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/144200099](https://www.suruga-ya.jp/product/detail/144200099)
 
 **PS2各店铺特典**
 
-<img :src="$withBase('/游戏/44.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/45.jpeg')" alt="foo">
+<img :src="$withBase('/game/44.jpeg')" alt="foo">
+<img :src="$withBase('/game/45.jpeg')" alt="foo">
 
 详见[https://shimo.im/docs/QyCgK8tW3CjRjpXD](https://shimo.im/docs/QyCgK8tW3CjRjpXD)
 
@@ -358,13 +359,13 @@ JANコード：4560194010194
 * ボイス：あり
 
 * アニメーション：あり（一部）→ 「minori movie collection vol.2」详见文档内周边分区
-<img :src="$withBase('/游戏/46.jpeg')" alt="foo">
+<img :src="$withBase('/game/46.jpeg')" alt="foo">
 
 **通常版**
 
-<img :src="$withBase('/游戏/47.jpeg')" alt="foo">
+<img :src="$withBase('/game/47.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/48.jpeg')" alt="foo">
+<img :src="$withBase('/game/48.jpeg')" alt="foo">
 
 扫图&照片：devil
 
@@ -386,7 +387,7 @@ JANコード：4560194010194
 
 ・特製パッケージBOX
 
-<img :src="$withBase('/游戏/VhCYImpmKzUx4ivo__thumbnail')" alt="foo">
+<img :src="$withBase('/game/VhCYImpmKzUx4ivo__thumbnail')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/145026198](https://www.suruga-ya.jp/product/detail/145026198)
 
@@ -402,7 +403,7 @@ JANコード：4560194010194
 * 游戏类型: ACT
 * 发行日期: 2010-9-17
 
-<img :src="$withBase('/游戏/49.jpeg')" alt="foo">
+<img :src="$withBase('/game/49.jpeg')" alt="foo">
 
 
 不单售
@@ -417,8 +418,8 @@ JANコード：4560194010194
 
 **大致剧情：水姬和宫子还有景一起套路可怜的莲酱，非常欢乐的日常。**
 
-<img :src="$withBase('/游戏/50.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/51.jpeg')" alt="foo">
+<img :src="$withBase('/game/50.jpeg')" alt="foo">
+<img :src="$withBase('/game/51.jpeg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/145031656](https://www.suruga-ya.jp/product/detail/145031656)
 
@@ -431,14 +432,14 @@ JANコード：4560194010194
 
 価格 3,870円  
 
-<img :src="$withBase('/游戏/52.jpeg')" alt="foo">
+<img :src="$withBase('/game/52.jpeg')" alt="foo">
 
 
 ### [latter](http://microsoft2.sitemix.jp/index.php?q=aHR0cHM6Ly9kbHNvZnQuZG1tLmNvLmpwL2RldGFpbC9taW5vcmlfMDAwMi8%2FaTNfcmVmPXNlYXJjaCZhbXA7aTNfb3JkPTE%3D)
 
 価格 4,889円
 
-<img :src="$withBase('/游戏/53.jpeg')" alt="foo">
+<img :src="$withBase('/game/53.jpeg')" alt="foo">
 
 
 --- 
@@ -448,24 +449,24 @@ JANコード：4560194010194
 
 ### [ef – A Fairy Tale of the Two - Deluxe Edition (Hardcopy)](https://www.mangagamer.com/r18/detail.php?product_code=245&af=3a123f6214695bfacaa881bd3117c693)
 
-<img :src="$withBase('/游戏/54.jpeg')" alt="foo">
+<img :src="$withBase('/game/54.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/55.jpeg')" alt="foo">
+<img :src="$withBase('/game/55.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/56.jpeg')" alt="foo">
+<img :src="$withBase('/game/56.jpeg')" alt="foo">
 
 [https://www.amazon.com/Ef-Fairy-Tale-Two-Standard-Pc/dp/B00RNG7UI4/ref=sr_1_1?keywords=ef+-+a+fairy+tale+of+the+two&qid=1572541284&s=videogames&sr=1-1](https://www.amazon.com/Ef-Fairy-Tale-Two-Standard-Pc/dp/B00RNG7UI4/ref=sr_1_1?keywords=ef+-+a+fairy+tale+of+the+two&qid=1572541284&s=videogames&sr=1-1)
 
 ---
 ### [ef – A Fairy Tale of the Two - Limited Edition](https://web.archive.org/web/20141020162548/http://www.mangagamer.com/detail.php?goods_type=3&product_code=219?PHPSESSID=fjvmc9jv71dgoajoi8t1c1rimk820a6g8jm0ltduvrvqrm8cj0a0)
 
-<img :src="$withBase('/游戏/84.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/85.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/79.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/80.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/81.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/82.jpeg')" alt="foo">
-<img :src="$withBase('/游戏/83.jpeg')" alt="foo">
+<img :src="$withBase('/game/84.jpeg')" alt="foo">
+<img :src="$withBase('/game/85.jpeg')" alt="foo">
+<img :src="$withBase('/game/79.jpeg')" alt="foo">
+<img :src="$withBase('/game/80.jpeg')" alt="foo">
+<img :src="$withBase('/game/81.jpeg')" alt="foo">
+<img :src="$withBase('/game/82.jpeg')" alt="foo">
+<img :src="$withBase('/game/83.jpeg')" alt="foo">
 
 更多介绍和图:[https://normanicgrav.blogspot.com/2015/02/unboxing-ef-fairy-tale-of-two-limited.html?m=1](https://normanicgrav.blogspot.com/2015/02/unboxing-ef-fairy-tale-of-two-limited.html?m=1)
 
@@ -478,17 +479,17 @@ JANコード：4560194010194
 
 ## **美版DL(R18)**
 
-<img :src="$withBase('/游戏/57.jpeg')" alt="foo">
+<img :src="$withBase('/game/57.jpeg')" alt="foo">
 
-<img :src="$withBase('/游戏/58.jpeg')" alt="foo">
+<img :src="$withBase('/game/58.jpeg')" alt="foo">
  
 ### [first](https://www.mangagamer.com/r18/detail.php?goods_type=1&product_code=22)
 
-<img :src="$withBase('/游戏/59.jpeg')" alt="foo">
+<img :src="$withBase('/game/59.jpeg')" alt="foo">
 
 ### [latter](https://www.mangagamer.com/r18/detail.php?goods_type=0&product_code=97)
 
-<img :src="$withBase('/游戏/60.jpeg')" alt="foo">
+<img :src="$withBase('/game/60.jpeg')" alt="foo">
 
 --- 
 
@@ -519,7 +520,7 @@ JANコード：4560194010194
     * **内存:**1 GB RAM
     * **显卡:**VRAM 128MB
 
-<img :src="$withBase('/游戏/61.jpeg')" alt="foo">
+<img :src="$withBase('/game/61.jpeg')" alt="foo">
 
 ### [latter ](https://store.steampowered.com/app/1145030/ef__the_latter_tale_All_Ages/)
 
@@ -533,7 +534,7 @@ JANコード：4560194010194
 
     * **存储空间:**需要 3200 MB 可用空间
 
-<img :src="$withBase('/游戏/62.jpeg')" alt="foo">
+<img :src="$withBase('/game/62.jpeg')" alt="foo">
 
 ### [Killjoy Hunter Yuuko ](https://store.steampowered.com/app/1148470/Killjoy_Hunter_Yuuko/)
 
@@ -556,4 +557,4 @@ JANコード：4560194010194
     * **存储空间:**需要 170 MB 可用空间
     * **声卡:**Directsound
     * **附注事项:**Gamepad recommended
-<img :src="$withBase('/游戏/63.jpeg')" alt="foo">
+<img :src="$withBase('/game/63.jpeg')" alt="foo">

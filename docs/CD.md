@@ -960,9 +960,9 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 minori登録ユーザーへ配布される年賀CDです。2006
 
-<img :src="$withBase('/年贺/1.jpg')" alt="foo">
-<img :src="$withBase('/年贺/2.jpg')" alt="foo">
-<img :src="$withBase('/年贺/15.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/1.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/2.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/15.jpg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/120021467?tenpo_cd=](https://www.suruga-ya.jp/product/detail/120021467?tenpo_cd=)
 
@@ -973,9 +973,9 @@ minori登録ユーザーへ配布される年賀CDです。2006
 
 minori登録ユーザーへ配布される年賀CDです。2007
 
-<img :src="$withBase('/年贺/3.jpg')" alt="foo">
-<img :src="$withBase('/年贺/4.jpg')" alt="foo">
-<img :src="$withBase('/年贺/16.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/3.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/4.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/16.jpg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/120033034?tenpo_cd=](https://www.suruga-ya.jp/product/detail/120033034?tenpo_cd=)
 
@@ -987,10 +987,10 @@ minori登録ユーザーへ配布される年賀CDです。2007
 
 『ef - the first tale.』絡みのドラマパート（オーディオ形式）。ちょっとPOPな内容の「景ちゃんのドタバタアルバイト」です。そんなに長くありません。普通です。
 
-<img :src="$withBase('/年贺/5.jpg')" alt="foo">
-<img :src="$withBase('/年贺/6.jpg')" alt="foo">
-<img :src="$withBase('/年贺/8.jpg')" alt="foo">
-<img :src="$withBase('/年贺/9.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/5.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/6.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/8.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/9.jpg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/120033958?tenpo_cd=](https://www.suruga-ya.jp/product/detail/120033958?tenpo_cd=)
 
@@ -1000,9 +1000,9 @@ minori登録ユーザーへ配布される年賀CDです。2007
 
 minori登録ユーザーへ配布される年賀CDです。2009
 
-<img :src="$withBase('/年贺/10.jpg')" alt="foo">
-<img :src="$withBase('/年贺/7.jpg')" alt="foo">
-<img :src="$withBase('/年贺/11.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/10.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/7.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/11.jpg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/120045470?tenpo_cd=](https://www.suruga-ya.jp/product/detail/120045470?tenpo_cd=)
 
@@ -1012,9 +1012,9 @@ minori登録ユーザーへ配布される年賀CDです。2009
 
 minori登録ユーザーへ配布される年賀CDです。2010
 
-<img :src="$withBase('/年贺/12.jpg')" alt="foo">
-<img :src="$withBase('/年贺/13.jpg')" alt="foo">
-<img :src="$withBase('/年贺/14.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/12.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/13.jpg')" alt="foo">
+<img :src="$withBase('/celebrate/14.jpg')" alt="foo">
 
 [https://www.suruga-ya.jp/product/detail/120043545?tenpo_cd=](https://www.suruga-ya.jp/product/detail/120043545?tenpo_cd=)
 
