@@ -1,6 +1,14 @@
 //.vuepress/config.js
 module.exports = {
   themeConfig: {
+      plugins: [
+          'vuepress-plugin-redirect',
+          {
+              // provide i18n redirection
+              // it will automatically redirect `/foo/bar/` to `/:locale/foo/bar/` if exists
+              locales: true,
+          },
+      ],
     sidebar: [
       {
         title: '前言',   // 必要的
