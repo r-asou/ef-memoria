@@ -1,0 +1,16 @@
+// 本地运行文档
+npm run docs:dev
+ 
+// 编译打包生产静态 HTML 文件
+npm run docs:build
+# 进入生成的文件夹
+
+cd docs/.vuepress/dist
+
+git init
+git add -A
+git commit -m 'deploy'
+# 如果你想要部署到 https://USERNAME.github.io
+
+git push -f git@github.com:1937528439/1937528439.github.io master
+git push -f  git@github.com:1937528439/vuepressBlog.git master
