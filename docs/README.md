@@ -2,7 +2,7 @@
 
 **ef-悠久之翼 资源档案楼和补全计划**
 
-[https://docs.qq.com/doc/DT2NWT3hwY0poTGFo](https://docs.qq.com/doc/DT2NWT3hwY0poTGFo)
+[https://mingbos-my.sharepoint.com/:w:/g/personal/otowa_group_mingbos_onmicrosoft_com/EcbHoZyUvMZKuB4uhar4Bi8Bi3TwdapM8zwyws6dGQdIJg?rtime=eCCuVqKl2Ug](https://mingbos-my.sharepoint.com/:w:/g/personal/otowa_group_mingbos_onmicrosoft_com/EcbHoZyUvMZKuB4uhar4Bi8Bi3TwdapM8zwyws6dGQdIJg?rtime=eCCuVqKl2Ug)
 
 **ef-悠久之翼 商品档案提交公共区**
 

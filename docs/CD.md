@@ -32,6 +32,7 @@
 
 
 ---
+
 ### [ef-a tale of memories.OST 2](https://bgm.tv/subject/803)
 
 **TVアニメーション『ef - a tale of memories.』劇中BGM（後半部)**
@@ -65,6 +66,7 @@
 
 
 ---
+
 ### [ef-a tale of melodies. OST 1](https://bgm.tv/subject/1474)
 
 **TVアニメーション『ef - a tale of melodies.』劇中BGM（1話～7話分）**
@@ -97,6 +99,7 @@
 
 
 ---
+
 ### [ef-a tale of melodies. OST 2](https://bgm.tv/subject/1475)
 
 **TVアニメーション『ef - a tale of melodies.』劇中BGM（8話～12話分）**
@@ -130,6 +133,7 @@
 
 
 ---
+
 ### [Alato ORIGINAL SOUNDTRACK](https://bgm.tv/subject/1541#;)
 
 **PCゲーム『ef - a fairy tale of the two.』使用の全楽曲を収録した、B5サイズジャケット/3枚組仕様のサウンドトラック付属の小冊子に、新堂 凪(黒井 みめい)描き下ろしコミック、作曲陣による座談会及び、テーマ曲「悠久の翼」/「emotional flutter」/「ever forever」歌詞、等を収録**
@@ -177,6 +181,7 @@
 
 
 ---
+
 ### [「リア獣ハンター 優子」everlasting force](http://bgm.tv/subject/96778)
 
 EF天使の日曜日（天使的星期日）附带小游戏リア獣ハンター優子 OST，歌曲多数为ef的BGM改编版，最大的亮点就属柳英一郎亲自演唱的《everlasting force》以及天门制作的3首天使的日曜日BGM。
@@ -191,6 +196,10 @@ EF天使の日曜日（天使的星期日）附带小游戏リア獣ハンター
 
 minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リア獣ハンター 優子」のオリジナルサウンドトラック「everlasting force」です。「天使の日曜日 “ef - a fairy tale of the two.” Pleasurable Box.」に収録されたミニゲーム「リア獣ハンター 優子」で使用された楽曲全15曲が収録されております。
 
+<img :src="$withBase('/ost/62.jpeg')" alt="foo">
+
+**修图： LemonCraft@tsdm**
+
 <img :src="$withBase('/ost/58.jpeg')" alt="foo">
 <img :src="$withBase('/ost/59.jpeg')" alt="foo">
 <img :src="$withBase('/ost/60.jpeg')" alt="foo">
@@ -202,6 +211,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ## **Single(12)(均已扫图)**
 
 ### [eternal feather](https://bgm.tv/subject/1542)
@@ -241,6 +251,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [宮村みやこ](https://bgm.tv/subject/1482)
 
 **【曲目列表】**
@@ -265,6 +276,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [euphoric field feat. ELISA](http://bangumi.tv/subject/1481)
 
 **【曲目列表】**
@@ -290,6 +302,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [新藤景](https://bgm.tv/subject/1483)
 
 **【曲目列表】**
@@ -315,6 +328,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [新藤 千尋](https://bgm.tv/subject/1480)
 
 **【曲目列表】**
@@ -340,6 +354,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### **テーマ曲マキシシングル**
 
 **【曲目列表】**
@@ -374,6 +389,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [悠久の翼 07.mix](https://bgm.tv/subject/1479)
 
 **【曲目列表】**
@@ -398,6 +414,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [ebullient future](http://bangumi.tv/subject/1478)
 
 **【曲目列表】**
@@ -424,6 +441,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [羽山ミズキ](https://bgm.tv/subject/1476)
 
 **【曲目列表】**
@@ -449,6 +467,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [雨宮優子](https://bgm.tv/subject/1477)
 
 **【曲目列表】**
@@ -474,6 +493,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [white pulsation](https://bgm.tv/subject/14734)
 
 **【曲目列表】**
@@ -517,6 +537,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [echt forgather](https://bgm.tv/subject/5078)
 
 **【曲目列表】**
@@ -561,6 +582,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [景のアフレター](https://bgm.tv/subject/145554)
 
 **「ef - a fairy tale of the two.」ドラマCD Vol.2**
@@ -581,6 +603,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [千尋がいなくなる日](https://bgm.tv/subject/145555)
 
 **「ef - a fairy tale of the two.」ドラマCD Vol.3**
@@ -600,6 +623,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [ミズキの時代劇](https://bgm.tv/subject/145556)
 
 **「ef - a fairy tale of the two.」ドラマCD Vol.4**
@@ -621,6 +645,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [SP1 「新堂凪への手紙」](https://bgm.tv/subject/145557)
 
 **以ef-a fairy tale of the two为背景，讲述了广野纮(新堂凪)为一位特殊的读者画特别漫画的故事。**
@@ -645,6 +670,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### DX1 [夕と優子の幸せな冬](https://bgm.tv/subject/95575)
 
 **「ef - a fairy tale of the two.」ドラマCD DX1**
@@ -669,6 +695,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [宮村家へようこそ](https://bgm.tv/subject/145593)
 
 **「ef - a fairy tale of the two.」ドラマCD vol.01**
@@ -685,6 +712,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [真夏の鍋パーティ](https://bgm.tv/subject/145594)
 
 **「ef - a fairy tale of the two.」ドラマCD vol.02**
@@ -710,6 +738,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [久瀬修一を探せ!?](https://bgm.tv/subject/145595)
 
 **「ef - a fairy tale of the two.」ドラマCD vol.03**
@@ -736,6 +765,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [あなたと一緒の夏祭り](https://bgm.tv/subject/145598)
 
 **「ef - a fairy tale of the two.」ドラマCD vol.04**
@@ -759,6 +789,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [水姫の相変わらずな1日](https://bgm.tv/subject/290857)
 
 **「ef - a fairy tale of the two.~」ドラマCD vol.05**
@@ -802,7 +833,9 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ---
+
 ### [景ちゃんのドタバタアルバイト](https://bgm.tv/subject/291478)
 
 **この「ef-Second Fan Mix」にはドラマCDが付属しております。「ef - the frst tale』より、みやこ、景、紘、京介の面々がお送りする、ある日のちょっとした一-騒動。題して「景ちゃんのドタバタアルバイト」です。second fan mix附录的广播剧，不单独出售。**
@@ -816,6 +849,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 <img :src="$withBase('/DRAMA/143.jpg')" alt="foo">
 
 ---
+
 ### [ゲーマーズ](https://bgm.tv/subject/293679)
 
 **游戏later的gamers特典CD**
@@ -828,6 +862,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [ANOTHER TALES - あなたに贈る物語](https://bgm.tv/subject/147256)
 
 **or[A story present to you.]**
@@ -862,6 +897,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [夏スペ:名探偵みやみや 温泉旅情デスペラード編](http://bgm.tv/subject/145560)
 
 **「ef - a fairy tale of the two.」ドラマCD 夏スペ**
@@ -885,6 +921,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [Jスペ:時代劇.煮](https://bgm.tv/subject/145561)
 
 **「ef - a fairy tale of the two.」 ドラマCD J****スペ******
@@ -908,6 +945,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [another tale - 宫村みやこ编](https://bgm.tv/subject/145592)
 
 **月刊コンプティーク2006年12月号付録。**
@@ -936,6 +974,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ---
+
 ### [音羽の夏、お祭りの夜](https://bgm.tv/subject/147254)
 
 **「ef - the latter tale.」****ソフマップ****特典CD**
@@ -956,6 +995,7 @@ minoriよりコミケ79や秋葉原電気外漢祭りにて発売された「リ
 
 
 ### お年賀二〇〇六
+
 编号:SW-021-NY
 
 minori登録ユーザーへ配布される年賀CDです。2006
@@ -969,6 +1009,7 @@ minori登録ユーザーへ配布される年賀CDです。2006
 ---
 
 ### お年賀二〇〇七
+
 编号:SW-006NY07
 
 minori登録ユーザーへ配布される年賀CDです。2007
@@ -980,7 +1021,9 @@ minori登録ユーザーへ配布される年賀CDです。2007
 [https://www.suruga-ya.jp/product/detail/120033034?tenpo_cd=](https://www.suruga-ya.jp/product/detail/120033034?tenpo_cd=)
 
 ---
+
 ### お年賀二〇〇八
+
 编号:SW-030NY08
 
 发售日期:2007-12-31
@@ -995,7 +1038,9 @@ minori登録ユーザーへ配布される年賀CDです。2007
 [https://www.suruga-ya.jp/product/detail/120033958?tenpo_cd=](https://www.suruga-ya.jp/product/detail/120033958?tenpo_cd=)
 
 ---
+
 ### お年賀二〇〇九
+
 编号:SW-NY09CD
 
 minori登録ユーザーへ配布される年賀CDです。2009
@@ -1007,7 +1052,9 @@ minori登録ユーザーへ配布される年賀CDです。2009
 [https://www.suruga-ya.jp/product/detail/120045470?tenpo_cd=](https://www.suruga-ya.jp/product/detail/120045470?tenpo_cd=)
 
 ---
+
 ### お年賀二〇一〇
+
 编号:SW-10NYCD
 
 minori登録ユーザーへ配布される年賀CDです。2010
@@ -1028,5 +1075,4 @@ minori登録ユーザーへ配布される年賀CDです。2010
 **于2006年10月13日 - 2007年6月1日在网站“音泉”配信的的广播，收录于游戏ef - second fan mix，不单独出售。**
 
 <img :src="$withBase('/DRAMA/73.jpg')" alt="foo">
-
 
