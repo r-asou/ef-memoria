@@ -1,66 +1,57 @@
-//.vuepress/config.js
-module.exports = {
-  themeConfig: {
-      plugins: [
-          'vuepress-plugin-redirect',
-          {
-              // provide i18n redirection
-              // it will automatically redirect `/foo/bar/` to `/:locale/foo/bar/` if exists
-              locales: true,
-          },
-      ],
-    sidebar: [
-      {
-        title: '前言',   // 必要的
-        collapsable: true, // 可选的, 默认值是 true,
-        children: [
-          '/'
-        ]
-		  },
-        {
-        title: '游戏',   // 必要的
-        collapsable: true, // 可选的, 默认值是 true,
-        children: [
-          'game'
-        ]
-		  },
-	  {
-        title: '动画',
-        children: [
-		   'anime'
-		],
-        initialOpenGroupIndex: -1 // 可选的, 默认值是 0
-      }	,  
-	  {
-        title: '书籍',
-        children: [
-		   'book'
-		],
-        initialOpenGroupIndex: -1 // 可选的, 默认值是 0
+import { defaultTheme } from '@vuepress/theme-default'
+import { searchPlugin } from '@vuepress/plugin-search'
+
+export default {
+	plugins: [
+    searchPlugin({
+      locales: {
+        '/': {
+          placeholder: '标题搜索',
+        },
       },
+    }),
+  ],
+  theme: defaultTheme({
+	contributors: false,
+	// 可折叠的侧边栏
+    sidebar: {
+      '/': [
         {
-        title: 'CD',   // 必要的
-        collapsable: true, // 可选的, 默认值是 true,
-        children: [
-          'CD'
-        ]
-		  },	  
-        {
-        title: '周边',   // 必要的
-        collapsable: true, // 可选的, 默认值是 true,
-        children: [
-          'hobby'
-        ]
-		  },
-        {
-        title: '18+',   // 必要的
-        collapsable: true, // 可选的, 默认值是 true,
-        children: [
-          '18'
-        ]
-		  },	
-		  
-    ],
-	sidebarDepth : 2	
-  }
+          text: '前言',  // 标题
+          collapsible: true, // 是否折叠
+          children: ['/'],   // 文件名
+        },
+		{
+        text: '游戏', 
+        collapsible: true,
+        children: ['游戏'],
+      },
+      {
+        text: '动画',
+        children: ['动画'],
+        collapsible: true,
+      },
+      {
+        text: '书籍',
+        children: ['书籍'],
+        collapsible: true,
+      },
+      {
+        text: 'CD',
+        collapsible: true,
+        children: ['CD'],
+      },
+      {
+        text: '周边',
+        collapsible: true,
+        children: ['周边'],
+      },
+      {
+        text: '18+',
+        collapsible: true,
+        children: ['18'],
+      },
+      ],
+    },
+  }),
 }

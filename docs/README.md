@@ -41,7 +41,6 @@
 **Sources排序：官网>getchu≈bangumi>一般通贩网站>一般维基**
 
 **中二社ef官网(尚不知还能撑多久emm）**
-
 [www.minori.ph/lineup/ef/index.html](http://www.minori.ph/lineup/ef/index.html)
 
 [http://www.minori.ph/lineup/ef/goods.html](http://www.minori.ph/lineup/ef/goods.html)
