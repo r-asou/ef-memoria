@@ -1,57 +1,51 @@
-import { defaultTheme } from '@vuepress/theme-default'
-import { searchPlugin } from '@vuepress/plugin-search'
-
-export default {
-	plugins: [
-    searchPlugin({
-      locales: {
-        '/': {
-          placeholder: '标题搜索',
-        },
-      },
-    }),
-  ],
-  theme: defaultTheme({
-	contributors: false,
-	// 可折叠的侧边栏
-    sidebar: {
-      '/': [
-        {
-          text: '前言',  // 标题
-          collapsible: true, // 是否折叠
-          children: ['/'],   // 文件名
-        },
-		{
-        text: '游戏', 
-        collapsible: true,
-        children: ['游戏'],
+// .vuepress/config.js
+module.exports = {
+  themeConfig: {
+    sidebar: [
+      {
+        title: '前言',   // 必要的
+        path: '/',
+        children: [
+          '/README'
+        ]
       },
       {
-        text: '动画',
-        children: ['动画'],
-        collapsible: true,
+        title: '游戏',
+        children: [
+          '/游戏'
+        ]
       },
       {
-        text: '书籍',
-        children: ['书籍'],
-        collapsible: true,
+        title: '动画',
+        children: [
+          '/动画'
+        ]
       },
       {
-        text: 'CD',
-        collapsible: true,
-        children: ['CD'],
+        title: '书籍',
+        children: [
+          '/书籍'
+        ]
       },
       {
-        text: '周边',
-        collapsible: true,
-        children: ['周边'],
+        title: 'CD',
+        children: [
+          '/CD'
+        ]
       },
       {
-        text: '18+',
-        collapsible: true,
-        children: ['18'],
+        title: '周边',
+        children: [
+          '/周边'
+        ]
       },
-      ],
-    },
-  }),
+      {
+        title: '18+',
+        children: [
+          '/18'
+        ]
+      }
+    ],
+    sidebarDepth: 2,
+  },
 }
