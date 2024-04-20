@@ -1,12 +1,6 @@
-友链:
+**[ef-悠久之翼 资源档案楼和补全计划](https://github.com/devil233-ui/ef_collection)**
 
-**ef-悠久之翼 资源档案楼和补全计划**
-
-[https://mingbos-my.sharepoint.com/:w:/g/personal/otowa_group_mingbos_onmicrosoft_com/EcbHoZyUvMZKuB4uhar4Bi8Bi3TwdapM8zwyws6dGQdIJg?rtime=eCCuVqKl2Ug](https://mingbos-my.sharepoint.com/:w:/g/personal/otowa_group_mingbos_onmicrosoft_com/EcbHoZyUvMZKuB4uhar4Bi8Bi3TwdapM8zwyws6dGQdIJg?rtime=eCCuVqKl2Ug)
-
-**ef-悠久之翼 商品档案提交公共区**
-
-[https://docs.qq.com/doc/DT0tQbm5nV2RIdVlV](https://docs.qq.com/doc/DT0tQbm5nV2RIdVlV)
+**[ef-悠久之翼 商品档案提交公共区](https://docs.qq.com/doc/DT0tQbm5nV2RIdVlV)**
 
 **请擅使用搜索(界面右上角可以全局检索条目标题；ctrl+F可于分区内检索任何关键字)和目录(界面左侧)功能。**
 
