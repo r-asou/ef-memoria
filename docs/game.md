@@ -190,7 +190,7 @@ JANコード：4560194010064
 
 **sofmap(多了特制收纳盒)**
 
-[https://www.suruga-ya.jp/product/detail/145019442](https://www.suruga-ya.jp/product/detail/145019442)****
+[https://www.suruga-ya.jp/product/detail/145019442](https://www.suruga-ya.jp/product/detail/145019442)
 
 **照片：暴雪、既逝如此安好@ef-a吧**
 
@@ -199,7 +199,7 @@ JANコード：4560194010064
 
 **C73场贩(多了收纳盒+卡片集)**
 
-[https://www.suruga-ya.jp/product/detail/145022070](https://www.suruga-ya.jp/product/detail/145022070)****
+[https://www.suruga-ya.jp/product/detail/145022070](https://www.suruga-ya.jp/product/detail/145022070)
 
 <img src="https://r2.youngmoe.com/ym-r2-bucket/游戏/30.jpeg"/>
 
@@ -357,7 +357,7 @@ JANコード：4560194010194
 
 * ボイス：あり
 
-* アニメーション：あり（一部）→ 「minori movie collection vol.2」详见文档内周边分区
+* アニメーション：あり（一部）→ 「minori movie collection vol.2」详见文档内CD分区
 <img src="https://r2.youngmoe.com/ym-r2-bucket/游戏/46.jpeg"/>
 
 **通常版**
@@ -382,7 +382,7 @@ JANコード：4560194010194
 
 ・モニタークリーナー(ベッドシーツと同絵柄)
 
-・特典DVD「minori movie collection vol.1」→详见文档内周边分区
+・特典DVD「minori movie collection vol.1」→详见文档内CD分区
 
 ・特製パッケージBOX
 
@@ -502,23 +502,6 @@ JANコード：4560194010194
 
 发行商: MangaGamer
 
-**最低配置:**
-
-
-    * **操作系统:**Windows 7 and up
-    * **处理器:**Celeron 566MHz
-    * **内存:**512 MB RAM
-    * **显卡:**VRAM 32MB
-    * **DirectX 版本:**9.0c
-    * **存储空间:**需要 1800 MB 可用空间
-
-**推荐配置:**
-
-
-    * **处理器:**Pentium 4 or equivalent Celero
-    * **内存:**1 GB RAM
-    * **显卡:**VRAM 128MB
-
 <img src="https://r2.youngmoe.com/ym-r2-bucket/游戏/61.jpeg"/>
 
 ### [latter ](https://store.steampowered.com/app/1145030/ef__the_latter_tale_All_Ages/)
@@ -528,10 +511,6 @@ JANコード：4560194010194
 开发商: minori
 
 发行商: MangaGamer
-
-系统要求仅一项和first不同
-
-    * **存储空间:**需要 3200 MB 可用空间
 
 <img src="https://r2.youngmoe.com/ym-r2-bucket/游戏/62.jpeg"/>
 
@@ -543,17 +522,4 @@ JANコード：4560194010194
 
 发行商: MangaGamer
 
-
-
-**最低配置:**
-
-
-    * **操作系统:**Windows 7 and up
-    * **处理器:**Intel Core2Duo Processor
-    * **内存:**1 GB RAM
-    * **显卡:**128MB VRAM
-    * **DirectX 版本:**9.0c
-    * **存储空间:**需要 170 MB 可用空间
-    * **声卡:**Directsound
-    * **附注事项:**Gamepad recommended
 <img src="https://r2.youngmoe.com/ym-r2-bucket/游戏/63.jpeg"/>
