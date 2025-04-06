@@ -1,5 +1,15 @@
 # **周边**
 
+## **书签（2）**
+
+### **ゲーマーズ特製オリジナルしおりフォルダー＆しおり**
+
+书签和书签收纳册
+
+<img src="https://r2.youngmoe.com/ym-r2-bucket/周边/75.jpg"/>
+<img src="https://r2.youngmoe.com/ym-r2-bucket/周边/84.jpg"/>
+
+
 ## **手办(2)**
 
 ### **PVC完成品 宮村みやこ**
@@ -483,14 +493,6 @@ minoriより発売されたPCソフト「ef - the latter tale.」メディオ!�
 ef -a fairy tale of the two.-　ZIPPO 「宮村みやこ」	（コミックマーケット71）イベント限定500個、シリアルNo.入り	6,000円
 
 <img src="https://r2.youngmoe.com/ym-r2-bucket/周边/48.jpg"/>
-
-
-**特典：ゲーマーズ特製オリジナルしおりフォルダー＆しおり**
-
-书签和书签收纳册
-
-<img src="https://r2.youngmoe.com/ym-r2-bucket/周边/75.jpg"/>
-
 
 **暂无**
 
