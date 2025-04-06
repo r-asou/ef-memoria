@@ -6,7 +6,7 @@
  
  书签和书签收纳册
  
- <img src="https://r2.youngmoe.com/ym-r2-bucket/周边/75.jpg"/>
+ <img src="[https://r2.youngmoe.com/ym-r2-bucket/周边/75.jpg](https://r2.youngmoe.com/ym-r2-bucket/%E5%91%A8%E8%BE%B9/75.jpg)"/>
  <img src="https://r2.youngmoe.com/ym-r2-bucket/周边/84.jpg"/>
  
  ## **手办(2)**
