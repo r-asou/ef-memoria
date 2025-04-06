@@ -1,15 +1,5 @@
 # **周边**
 
-## **书签（2）**
-
-### **ゲーマーズ特製オリジナルしおりフォルダー＆しおり**
-
-书签和书签收纳册
-
-<img src="https://r2.youngmoe.com/ym-r2-bucket/周边/75.jpg"/>
-<img src="https://r2.youngmoe.com/ym-r2-bucket/周边/84.jpg"/>
-
-
 ## **手办(2)**
 
 ### **PVC完成品 宮村みやこ**
