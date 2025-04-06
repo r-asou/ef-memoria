@@ -1,21 +1,23 @@
 {
-  "name": "vuepress-starter",
+  "name": "vuepress",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "packageManager": "pnpm@10.6.5",
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.9",
-    "@vuepress/plugin-catalog": "2.0.0-rc.24",
-    "@vuepress/plugin-search": "2.0.0-rc.24",
-    "@vuepress/theme-default": "2.0.0-rc.25",
-    "vue": "^3.4.23",
-    "vuepress": "2.0.0-rc.9"
+    "@vuepress/bundler-vite": "2.0.0-rc.20",
+    "@vuepress/plugin-search": "2.0.0-rc.87",
+    "@vuepress/theme-default": "2.0.0-rc.87",
+    "sass-embedded": "^1.86.0",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.20"
   }
 }
